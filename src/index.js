@@ -1,4 +1,4 @@
-import 'bootstrap/dist/css/boot';
+import 'bootstrap/dist/css/bootstrap.css';
 
 import React from 'react';
 import { createRoot } from 'react-dom';
